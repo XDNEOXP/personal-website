@@ -1,0 +1,17 @@
+.Header{
+    max-width: 1567px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 43px 0;
+}
+
+.Header ul{
+    flex-grow: 1;
+    display: flex;
+}
+
+.Header img{
+    max-width: 60px;
+    border-radius: 50%;
+}

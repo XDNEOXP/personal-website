@@ -1,9 +1,12 @@
 import './App.css';
+import Layout from '../Layout/Layout'
 
 function App() {
   return (
     <div className="App">
-      Personal Website
+      <Layout>
+        Personal Website
+      </Layout>
     </div>
   );
 }
