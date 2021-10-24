@@ -4,6 +4,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
+  line-height: 22px;
   font-weight: 600;
 }
 
@@ -16,4 +17,8 @@ code {
   --primary: #00a7ae;
   --secondary: #12225a;
   --bodyFontSize: 16px;
+  --bodyLineHeight: 22px;
+  --gray: #666666;
+  --black: #222222;
+  --lightGray: #999999;
 }
